@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello Folks👋
+
+I like to program, sometimes as a pig and sometimes as a pro haha. Fan of learning new technologies and starting new projects.
+Planning to begin to stream whatever in my [twitch channel](https://www.twitch.tv/marquinhoss09).
 
 <!--
 **Marcoo09/Marcoo09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
