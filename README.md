@@ -5,7 +5,7 @@ Hi guys, I'm Marco Fiorito. I am a Software Engineer from Montevideo 🇺🇾, U
 
 📝 I regularly write articles on [https://www.metalabs.software/blog](https://www.metalabs.software/blog)
 
-📫 How to reach me **marco@metalabs.software**
+📫 How to reach me **marco@metalabs.software | marcofiorito1@gmail.com**
 
 
 ## 🌐 Socials:
