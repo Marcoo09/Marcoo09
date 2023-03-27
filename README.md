@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi guys, I'm Marco Fiorito. I am a Software Engineer from Montevideo 🇺🇾, Uruguay.
+Hi guys, I'm Marco Fiorito. I'm a Software Engineer from Montevideo 🇺🇾, Uruguay.
 
 🔭 I’m currently working on [MetaLabs](https://www.metalabs.software/)
 
