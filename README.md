@@ -1,9 +1,9 @@
 # 💫 About Me:
 Hi guys, I'm Marco Fiorito. I'm a Software Engineer from Montevideo 🇺🇾, Uruguay.
 
-🔭 I’m currently working on [MetaLabs](https://www.metalabs.software/)
+🔭 I’m currently working on [Howdy](https://www.howdy.com/)
 
-📫 How to reach me **marco@metalabs.software | marcofiorito1@gmail.com**
+📫 How to reach me **marcofiorito1@gmail.com**
 
 
 ## 🌐 Socials:
